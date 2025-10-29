@@ -39,7 +39,7 @@ Autopsy is an open-source digital forensics platform used for analyzing and extr
 <br>
  <br>
  
-### 4. Initial Analysis and Overview
+### 4. Initial Analysis and Overview.
 - Ingest Progress: As Autopsy processes the data source, you'll see the progress in the lower-left corner.
 - Explore the Resulting Artifacts:
 - Use the Tree Viewer
@@ -79,7 +79,7 @@ Autopsy is an open-source digital forensics platform used for analyzing and extr
 
 <p align="center">
 <img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/4f2add6b-385e-42db-bf52-b16c5f95ccca" />
-
+<br>
 
 <p align="center">
  
