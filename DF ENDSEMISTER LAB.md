@@ -77,8 +77,8 @@ Autopsy is an open-source digital forensics platform used for analyzing and extr
 -Generate a Report :
  - After analyzing the data, click on Generate Report from the toolbar.
 
-<p align="center">
-<img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/4f2add6b-385e-42db-bf52-b16c5f95ccca" />
+<p align="center"><img width="1711" height="1017" alt="image" src="https://github.com/user-attachments/assets/0a58cbd4-5997-4d59-ba74-de3eacbefcc9" />
+
 <br>
 
 <p align="center">
@@ -88,7 +88,8 @@ Autopsy is an open-source digital forensics platform used for analyzing and extr
 -  *Report*
 
 <br>
-<img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/d4f38493-07b3-4834-aba3-44d63f602714" />
+<img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/4fc33e3f-0125-4494-b3c1-bb10b0345768" />
+
 
 <br>
 
